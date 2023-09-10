@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Praveen Kumaresan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<img src="banner.png" alt="" width="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveen9655&label=Profile%20views&color=0e75b6&style=flat" alt="praveen9655" /> </p>
 
 - 🔭 I’m currently working on [ARJ SYMPOSIUM](https://github.com/praveen9655/ARJ-Symposium)
